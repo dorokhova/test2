@@ -4,3 +4,5 @@ line3
 line4
 branch1
 line 2nd july
+
+figures section
